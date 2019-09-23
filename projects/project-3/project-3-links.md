@@ -2,26 +2,26 @@
 
 | Team | Project Name | GitHub | Pitch Deck | Trello | Hosted Site |
 |---|:---:|:---:|:---:|:---:|:---:|
-| **Team 1** (ATX)<br>Ben, Caleb & Emily M |  |  |  |  |  |
-| **Team 2** (ATX)<br>Conner, David & Robin |  |  |  |  |  |
-| **Team 3** (ATX)<br>Elco, Garett & Jeremiah |  |  |  |  |  |
-| **Team 4** (ATX)<br>Chris M, Jack, Lily |  |  |  |  |  |
-| **Team 5** (ATX)<br>Emily L, Jared & Nova |  |  |  |  |  |
-| **Team 6** (ATX)<br>Heather, Julia & Taylor |  |  |  |  |  |
-| **Team 7** (ATX)<br>Dev, Frances & Joe |  |  |  |  |  |
-| **Team 8** (ATX)<br>Beverly, Chris P & Vittoria |  |  |  |  |  |
-| **Team Alpha** (DAL)<br>Andrew, Dan & Joe |  |  |  |  |  |
-| **Team Bravo** (DAL)<br>Armando, Cole & Sam |  |  |  |  |  |
-| **Team Charlie** (DAL)<br>Kevinn, Michael H. &  Ryan |  |  |  |  |  |
-| **Team Delta** (DAL)<br>Beth, Michael M., & Ruben |  |  |  |  |  |
-| **Team 1** (SF)<br>Greg M, Ny Ansta & Matthew |  |  |  |  |  |
-| **Team 2** (SF)<br>Aly, Carol & Greg R |  |  |  |  |  |
-| **Team 3** (SF)<br>Chi, Jon & Sorrel |  |  |  |  |  |
-| **Team 4** (SF)<br>Anami, CJ, Preston |  |  |  |  |  |
-| **Team 5** (SF)<br>Braxton, Tyler & Wenjie |  |  |  |  |  |
-| **Team 6** (SF)<br>Emily, Samantha & Sonnia |  |  |  |  |  |
-| **Team 7** (SF)<br>Joshua, Loquen & Michael |  |  |  |  |  |
-| **Team 1** (LA)<br>Dave, Leo & Perice |  |  |  |  |  |
-| **Team 2** (LA)<br>Dan, Marques & Nick |  |  |  |  |  |
-| **Team 3** (LA)<br>Muhamed, Tim & Victor |  |  |  |  |  |
+| **\_\_Cover\_\_ Party Parrots** (ATX)<br>Ben, Caleb & Emily M | EventUs | [link](https://github.com/ManliestBen/EventUs) | [link](https://docs.google.com/presentation/d/1OT_RDEHj0WkTT491Q2uGVndk18ljhklRSpTLNGARV9c/edit) | [link](https://trello.com/b/7x3lbQZp/unit-3-project-sei) | [link](http://unit3eventus.herokuapp.com/) |
+| **PP Gang** (ATX)<br>Conner, David & Robin | PopoPipo | [link](https://github.com/robified/PopoPipo) | [link](https://docs.google.com/presentation/d/1CbD-Lmh8Juw45oZl10vWsDRVLaolzaLF2_E1RR1xqps/edit?usp=sharing) | [link](https://trello.com/b/ARZrtXpf/popopipo-board) | [link](https://popopipo.herokuapp.com) |
+| **GoldTeamRulez** (ATX)<br>Elco, Garett & Jeremiah | Milo | [link](https://github.com/eag58914/goldteamrulez) | [link](https://docs.google.com/presentation/d/1vABzptdgsNESMPfY0jREgNLUaEM0aL_7cuebgCwPuLw/edit?usp=sharing) | [link](https://trello.com/b/rBCK1Zw6/milo-board) | [link](https://milo-app-fitness.herokuapp.com) |
+| **Pythonistas** (ATX)<br>Frances, Joe & Dev | Django-Unlibbed | [link](https://github.com/SleepyJosus/django-unlibbed) | [link](https://docs.google.com/presentation/d/1uwseGUwtcYWAlPSTb-Kys7gZiOxlntK2aqg0_D6EOhA/edit?usp=sharing) | [link](https://trello.com/b/pGK9J44a) | [link](https://djangounlibbed.herokuapp.com/) |
+| **Team Steve "give us" Jobs** (ATX)<br>Chris M, Jack, Lily | Give Us Jobs | [link](https://github.com/lilymbest/PyTunes) | [link](https://trello.com/b/XERf0ED6)  | [link](https://docs.google.com/presentation/d/1ORp7Lyqa03Xctm2D_E5MICOsYJZemmK7cS5PLQ7iV1U/edit#slide=id.p1) | [link](https://pytunes-project.herokuapp.com/) |
+| **Code Blooded Killers** (ATX)<br>Emily L, Jared & Nova | ECO | [link](https://github.com/nhasley/ECO-App-Python) | [link](https://prezi.com/view/Q8Ai5Rj2P8Tt7xG4Gxbn/) | [link](https://trello.com/b/qBpEXc36/project-3) | [link](https://ecopython.herokuapp.com/) |
+| **Team 6** (ATX)<br>Heather & Taylor | LoopedInAustin | [link](https://github.com/tlacerte/Loopedin-Austin) | [link](https://docs.google.com/presentation/d/1yvYs6ppsYkMtqd35dhv4-v68OH3iBtPjccIgoyZAOX8/edit) | [link](https://trello.com/b/weeRXQke/project-3-schedule) | [link](https://loopedin-austin.herokuapp.com/) |
+| **Team 8** (ATX)<br>Beverly, Chris P & Vittoria | Happiest Hour | [link](https://github.com/600rrchris/happiest-hour) | [link](https://docs.google.com/presentation/d/1jt82DkKdKsVEbulChkJhon3gfGLCy-bjjKstkn3Crpk/edit?usp=sharing) | [link](https://trello.com/b/OfdGlQbx/happiest-hour) | [link](https://happiest-hour-unit3.herokuapp.com/) |
+| **Team Alpha** (DAL)<br>Andrew, Dan & Joe | Level Up Your Life | [link](https://github.com/atheismann/level-up-your-life) |[link](https://prezi.com/view/oYGYcBhg8116jjREbPZE/)  | [link](https://trello.com/b/bxij6mUm/p3-level-up-your-life) |[link](https://level-up-your-life.herokuapp.com/) |
+| **Team Bravo** (DAL)<br>Armando, Cole & Sam | Court Kings | [link](https://github.com/41Holmes41/courtkings) |[link](https://docs.google.com/presentation/d/1NAnM5GLKJ8GUX599V-fQfVGySubPp-6krl31lqP6rYU/edit)| [link](https://trello.com/b/UGYE7yuI/project-3-team-bravo)| [link](http://courtkings.herokuapp.com/)|
+| **Team Charlie** (DAL)<br>Kevinn, Michael H. &  Ryan | Tap That | [link](https://github.com/RyanPGeorge/tapthat) |[link](https://docs.google.com/presentation/d/1fTyJLPLKMeMsSu6bcPHOVit5xpE_7hb_NPUdugkBEVk/edit?ts=5d790fc7#slide=id.p) | [link](https://trello.com/b/g6wZvrSL/project-3) |[link](http://tapthat.herokuapp.com/)|
+| **Team Delta** (DAL)<br>Beth, Michael M., & Ruben | Volun Go | [link](https://github.com/bethsmith0623/Volun_Go) | [link](https://docs.google.com/presentation/d/1Dk0PctT_g3AA0mQx8NKE249GFP4qO3Gg1lq3aBN9WB8/edit#slide=id.g35f391192_00) | [link](https://trello.com/b/2graod5Y/volun-go) |[link](https://volungo.herokuapp.com/)|
+| **Intimidator Imitator Initiator** (SF)<br>Greg M, Ny Ansta & Matthew | Experiences | [link](https://github.com/g-merrill/experiences-app) | [link](https://docs.google.com/presentation/d/1DNAjXGBXbbPf6wL9p9H0ejlKsjO_Jow6QXtbjNTSpVk/edit) | [link](https://trello.com/b/XF41OcI0/airbnb-experiences) | [link](http://experiencesapp.herokuapp.com/experiences/) |
+| **Team 2** (SF)<br>Aly, Carol & Greg R | Cookaround | [link](https://github.com/franics925/cook_around) | [link](https://docs.google.com/presentation/d/1DNAjXGBXbbPf6wL9p9H0ejlKsjO_Jow6QXtbjNTSpVk/edit#slide=id.p) | [link](https://trello.com/b/Ia4cBX5M/cookaround) |  |
+| **Team 3** (SF)<br>Chi, Jon & Sorrel | A Stardust Truce | [link](https://github.com/Chi37/a-stardust-truce) | [link](https://docs.google.com/presentation/d/1Vz4RZZBMdJfMy1-LDVcohWqV8bO3dF8WlZT9SNuVkrA/edit#slide=id.p) | [link](https://trello.com/b/vyfWUQB2/data-structures) | [link](https://astardusttruce.herokuapp.com) |
+| **Team 4** (SF)<br>Anami, CJ, Preston | CapX | [link](https://github.com/anami-sf/capX) | [link](https://www.icloud.com/keynote/0C9Ck9U3JRX2WnD5krrsxCykw#capx) | [link](https://trello.com/b/yg1hEwqj/capx) | [link](https://capxexchange.herokuapp.com/) |
+| **Team 5** (SF)<br>Braxton, Tyler & Wenjie | Tasty | [link](https://github.com/tvilla0000/Tasty/) |  | [link](https://trello.com/b/PjRlStrU/project3) | [link](http://menunav.herokuapp.com/) |
+| **Team 6** (SF)<br>Emily, Samantha & Sonnia | Briefcase | [link](https://github.com/emilyc729/mybriefcase) |  | [link](https://trello.com/b/jD2WqWJw/project3-briefcase) | [link](https://ess-mybriefcase.herokuapp.com/) |
+| **Taco Company SF** (SF)<br>Joshua, Loquen & Michael | Band Together | [link](https://github.com/Loquen/band-together) | [link](https://docs.google.com/presentation/d/1QtojdQ5hULlSEvOOO0AZ-4bkRSuf6MyDMpl70IFd09k/edit#slide=id.p) | [link](https://trello.com/b/WUt3ITnz/main) | [link](http://bandtogether-lmj.herokuapp.com/) |
+| **Team 1** (LA)<br>Dave, Leo & Perice | Superhereos | [link](https://github.com/davekoncsol/superheroes) | [link](https://docs.google.com/presentation/d/1KtwkOS2cJRs6ORalX-9EHZPRSteWnNjZSGBqhrgOQXs/edit#slide=id.gd9c453428_0_16) | [link](https://trello.com/b/emGKBwIe/superheroes) | [link](http://superhero-database-sei.herokuapp.com/) |
+| **Team 2** (LA)<br>Dan, Marques & Nick | Pick Up Games | [link](https://github.com/nbai123/PickUpGames) | [link](https://docs.google.com/presentation/d/1uWzLqHEuwEoaMsfE9DB3Ieob1LWd_TW9JjK3GkK9crs/edit#slide=id.p) | [link](https://trello.com/b/4jZaSAc0/pick-up-games-python-django-project) | [link](https://pick-up-games.herokuapp.com/) |
+| **Team Badass** (LA)<br>Muhamed, Tim & Victor | My Car Diary | [link](https://github.com/TimeForZeros/myCarDiaryApp) |  | [link](https://trello.com/b/fvz76Kyc/my-car-diary) | [link](http://mycardiary.herokuapp.com/) |
 
