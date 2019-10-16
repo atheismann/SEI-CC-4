@@ -26,25 +26,25 @@
 | DAL | Beth | My Developer Experience | [link](https://github.com/bethsmith0623/MyDeveloperExperience)| [link](https://trello.com/b/OLuLa5rg/my-developer-experience) | [link](http://my-developer-experience.herokuapp.com/)|
 | DAL | Joe | AnimeApp |[link](https://github.com/Jhunted/my-project-4.git)|[link](https://trello.com/b/C1wgVQz9/animapp)| [link](https://react-animapp.herokuapp.com/)|
 | DAL | Kevinn | Rant |[link](https://github.com/kevinnarbas/rant-react) |[link](https://trello.com/b/kc8TpBdV/rant)|[link](https://rant-react.herokuapp.com/)|
-| DAL | Michael H. | DND Character Creator | [link](https://github.com/mhinte91/p4-dnd-character-creator)| [link](https://trello.com/b/9Rt7Q04S/dd-character-creator)|[link](http://react-character-creator.herokuapp.com/)|
+| DAL | Michael H. | DND Character Creator | [link](https://github.com/mhinte91/p4-dnd-character-creator)| [link](https://trello.com/b/9Rt7Q04S/dd-character-creator)|[link](http://frozen-springs-93367.herokuapp.com/)|
 | DAL | Michael M. | Video Game Reviewer | [link](https://github.com/Mad-Hatter-1865/Project-4)|[link](https://trello.com/b/wuNMyZfi/project-4)|[link](https://neon-games.herokuapp.com/)|
 | DAL | Cole | Tast Master 6000 | [link](https://github.com/41Holmes41/taskmaster6000)|[link](https://trello.com/b/UTOmquNt/project-4)|[link](https://taskmaster6000.herokuapp.com/)|
 | DAL | Ruben |Khas |[link](https://github.com/rcaceres1/khas)|[link](https://trello.com/b/FXHeJjML/khas)|[link](https://khas-app.herokuapp.com/)|
 | DAL | Ryan | Chirper | [link](https://github.com/RyanPGeorge/chirper)|[link](https://trello.com/b/iQjnl53i/project-4)|[link](https://warm-cove-62385.herokuapp.com/)|
 | DAL | Sam | Mustang Rentals | [link](https://github.com/samiduara/Mustangs-Rentals)|[link](https://trello.com/b/QhedZESk/mustang-rentals)| [link](https://mustang-rentals.herokuapp.com/)|
-| LA | Dan | S & S Farms | [link](https://github.com/seagrendaniel/S-S-Farms) |  |  |
-| LA | Dave | Dating App | [link](https://github.com/davekoncsol/dating-app) |  |  |
-| LA | Leo | Expense Tracker | [link](https://github.com/leonelRos/react-expenses-tracker) | [link](https://trello.com/b/HXFTLouQ/expenses-tracker) |  |
-| LA | Marques | PLAYYOURROLE | [link](https://github.com/Mjsmith30/PLAYYOURROLE) |  |  |
+| LA | Dan | S & S Farms | [link](https://github.com/seagrendaniel/S-S-Farms) | [link](https://trello.com/b/RrrIsnCn/ss-farms-full-mern-stack-website) | [link](https://s-s-farms.herokuapp.com) |
+| LA | Dave | Dating App | [link](https://github.com/davekoncsol/dating-app) | [link](https://trello.com/b/qkGe1Y1a/dating-app) | [link](https://react-dating-app.herokuapp.com/) |
+| LA | Leo | Expense Tracker | [link](https://github.com/leonelRos/react-expenses-tracker) | [link](https://trello.com/b/HXFTLouQ/expenses-tracker) | [link](https://single-expense-tracker.herokuapp.com/) |
+| LA | Marques | PLAYYOURROLE | [link](https://github.com/Mjsmith30/PLAYYOURROLE) | [link](https://trello.com/b/IJJxKOvn/project-4) | [link](https://playyourrole.herokuapp.com/) |
 | LA | Nick | ur car remote | [link](https://github.com/nbai123/ur-car-remote) | [link](https://trello.com/b/cH8RnkU2/project-4) |  |
 | LA | Muhammed | News | [link](https://github.com/qadanm/news) | [link](https://trello.com/b/zFotVVBA/news) |  |
 | LA | Perice | Band Sandbox / DRUM | [link](https://github.com/perice-pope/band-sandbox) | [link](https://trello.com/b/dKWghBAz/band-sandbox-drum) | [link](https://band-sandbox.herokuapp.com/) |
-| LA | Tim |  |  | [link](https://trello.com/b/rJ98DDss/actors-acting) |  |
+| LA | Tim | Line Memory | [link](https://github.com/TimCross1994/Line-Memory) | [link](https://trello.com/b/rJ98DDss/actors-acting) | [link](https://line-memory.herokuapp.com/) |
 | LA | Victor | HMU | [link](https://github.com/TimeForZeros/hmu-react-app) | [link](https://trello.com/b/r5Z7HiCh/hmu-react-project) |  [link](http://hitmeupfam.herokuapp.com/)|
 | SF | Aly |  |  |  |  |
-| SF | Anami |  |  |  |  |
+| SF | Anami | Smart Face |  |  | [link](https://smart-face-id-frontend.herokuapp.com/) |
 | SF | Braxton |  |  |  |  |
-| SF | Carol | Dream Job Journey | [link](https://github.com/carolsand/dreamjobjourney) | [link](https://trello.com/b/MFY1yOJn/dreamjobjourney) |  |
+| SF | Carol | Dream Job Journey | [link](https://github.com/carolsand/dreamjobjourney) | [link](https://trello.com/b/MFY1yOJn/dreamjobjourney) | [link](https://dreamjobjourney.herokuapp.com/) |
 | SF | CJ |  |  |  |  |
 | SF | Chi | DTR | [link](https://github.com/Chi37/dtr) | [link](https://trello.com/b/bDsqurUy/dtr) |  |
 | SF | Emily |  |  |  |  |
@@ -52,7 +52,7 @@
 | SF | Greg R. |  |  |  |  |
 | SF | Jon |  |  |  |  |
 | SF | Joshua |  |  |  |  |
-| SF | Loquen | Sit | [link](https://github.com/Loquen/sit) | [link](https://trello.com/b/ewloRYfv/sit-capstone-project) |  |
+| SF | Loquen | Sit | [link](https://github.com/Loquen/sit) | [link](https://trello.com/b/ewloRYfv/sit-capstone-project) | [link](http://sit-lrj.herokuapp.com/) |
 | SF | Matthew |  | [link](https://github.com/mrobin88/mtg-pile) |  |  |
 | SF | Michael |  |  |  |  |
 | SF | Ny Antsa | BookStore | [link](https://github.com/NyAntsaR/BookStore) | [link](https://trello.com/b/M8N2tnfa/bookstore) |  |
